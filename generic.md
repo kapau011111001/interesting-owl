@@ -4,7 +4,7 @@ content_img_path: images/pic04.jpg
 layout: page
 menu:
   main:
-    title: Generic
+    title: Genericooooooooo
     weight: 2
 
 ---
